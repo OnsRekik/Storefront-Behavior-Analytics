@@ -53,9 +53,7 @@ Pipeline Deep Learning end-to-end pour analyser le comportement des passants dev
 
 Tous les modèles sont exportés en **ONNX** pour optimiser l'inférence.
 
-## 📄 Licence
 
-MIT
 
 ---
 
