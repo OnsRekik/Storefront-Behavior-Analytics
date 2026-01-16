@@ -4,7 +4,7 @@ Pipeline Deep Learning end-to-end pour analyser le comportement des passants dev
 
 
 
-> 📊 **[Voir la présentation complète du projet]([VOTRE_LIEN_ICI](https://www.canva.com/design/DAG0lTYqmOw/z-EmzJlPZYNW9WjM7s_diw/edit?utm_content=DAG0lTYqmOw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))**
+> 📊 **[Voir la présentation complète du projet]((https://www.canva.com/design/DAG0lTYqmOw/z-EmzJlPZYNW9WjM7s_diw/edit?utm_content=DAG0lTYqmOw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))**
 
 ##  Fonctionnalités
 
